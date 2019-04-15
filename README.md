@@ -25,7 +25,7 @@ This application is split into various different repositiories, all falling unde
 
 [Gigapet Backend Repo](https://github.com/lambda-gigapet/build-gigapet-BE)
 
-### Android()
+### Android
 
 [Gigapet Android App Repo]()
 
