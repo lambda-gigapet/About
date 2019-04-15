@@ -32,4 +32,5 @@ This application is split into various different repositiories, all falling unde
 ### Marketing
 
 [Gigapet Marketing Page Repo Ver. 1](https://github.com/lambda-gigapet/build-gigapet-WebUI-Jeremy)
+
 [Gigapet Marketing Page Repo Ver. 2](https://github.com/lambda-gigapet/build-gigapet-WebUI-King)
